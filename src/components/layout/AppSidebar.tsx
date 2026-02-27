@@ -43,7 +43,7 @@ export function AppSidebar() {
         </div>
       </div>
 
-      <SidebarContent className="px-3 py-2">
+      <SidebarContent className="px-3 py-2 no-scrollbar">
         <SidebarGroup>
           <SidebarGroupContent>
             <SidebarMenu>
